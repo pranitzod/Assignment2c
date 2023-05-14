@@ -1,0 +1,102 @@
+Microsoft Windows [Version 10.0.22621.1702]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\prani\Downloads\Assignment2c>npm --version
+9.5.0
+
+C:\Users\prani\Downloads\Assignment2c>npm install -g @angular/cli@latest
+npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+
+changed 256 packages in 25s
+
+37 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\prani\Downloads\Assignment2c>ng new partc
+? Would you like to share pseudonymous usage data about this project with the Angular Team
+at Google under Google's Privacy Policy at https://policies.google.com/privacy. For more
+details and how to change this setting, see https://angular.io/analytics. Yes
+
+Thank you for sharing pseudonymous usage data. Should you change your mind, the following
+command will disable this feature entirely:
+
+    ng analytics disable --global
+
+Global setting: enabled
+Local setting: No local workspace configuration file.
+Effective status: enabled
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? CSS
+CREATE partc/angular.json (2695 bytes)
+CREATE partc/package.json (1036 bytes)
+CREATE partc/README.md (1059 bytes)
+CREATE partc/tsconfig.json (901 bytes)
+CREATE partc/.editorconfig (274 bytes)
+CREATE partc/.gitignore (548 bytes)
+CREATE partc/tsconfig.app.json (263 bytes)
+CREATE partc/tsconfig.spec.json (273 bytes)
+CREATE partc/.vscode/extensions.json (130 bytes)
+CREATE partc/.vscode/launch.json (470 bytes)
+CREATE partc/.vscode/tasks.json (938 bytes)
+CREATE partc/src/main.ts (214 bytes)
+CREATE partc/src/favicon.ico (948 bytes)
+CREATE partc/src/index.html (291 bytes)
+CREATE partc/src/styles.css (80 bytes)
+CREATE partc/src/app/app-routing.module.ts (245 bytes)
+CREATE partc/src/app/app.module.ts (393 bytes)
+CREATE partc/src/app/app.component.html (23115 bytes)
+CREATE partc/src/app/app.component.spec.ts (988 bytes)
+CREATE partc/src/app/app.component.ts (209 bytes)
+CREATE partc/src/app/app.component.css (0 bytes)
+CREATE partc/src/assets/.gitkeep (0 bytes)
+⠸ Installing packages (npm)...npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+npm ERR! code ECONNRESET
+npm ERR! syscall read
+npm ERR! errno -4077
+npm ERR! network read ECONNRESET
+npm ERR! network This is a problem related to network connectivity.
+npm ERR! network In most cases you are behind a proxy or have bad network settings.
+npm ERR! network
+npm ERR! network If you are behind a proxy, please make sure that the
+npm ERR! network 'proxy' config is set properly.  See: 'npm help config'
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\prani\AppData\Local\npm-cache\_logs\2023-05-14T12_27_28_281Z-debug-0.log
+✖ Package install failed, see above.
+The Schematic workflow failed. See above.
+
+C:\Users\prani\Downloads\Assignment2c>
+
+C:\Users\prani\Downloads\Assignment2c>npm install -g @angular/cli@latest
+npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+
+changed 256 packages in 6s
+
+37 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\prani\Downloads\Assignment2c>npm install -g @angular/cli@latest
+npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+
+changed 256 packages in 39s
+
+37 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\prani\Downloads\Assignment2c>cd partc
+
+C:\Users\prani\Downloads\Assignment2c\partc>ng serve
+Error: Could not find the '@angular-devkit/build-angular:dev-server' builder's node package.
+
+C:\Users\prani\Downloads\Assignment2c\partc>npm install -g @angular/cli
+npm WARN deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+
+changed 256 packages in 18s
+
+37 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\prani\Downloads\Assignment2c\partc>ng serve
+Error: Could not find the '@angular-devkit/build-angular:dev-server' builder's node package.
+
+C:\Users\prani\Downloads\Assignment2c\partc>^A^A
